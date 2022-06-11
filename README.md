@@ -16,6 +16,7 @@ Attack: Left Click
 Move: W, A, S, D
 
 <h3>Commands:</h3>
+
 Type `-z` at the end for the zombie mode.
 
 Type `-n` at the end to change the daytime to night in normal mode.
