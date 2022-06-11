@@ -11,9 +11,9 @@ To Play
 <h3>Controls:</h3>
 Mousewheel to change weapon
 
-Attack: Left Click
+Attack: <kbd>Left Click</kbd>
 
-Move: W, A, S, D
+Move: <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd>
 
 <h3>Commands:</h3>
 
