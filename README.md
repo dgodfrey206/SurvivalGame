@@ -9,15 +9,15 @@ To Play
 =====
 
 <h3>Controls:</h3>
-Mousewheel to change weapon\
+Mousewheel to change weapon
 
-Attack: Left Click\
+Attack: Left Click
 
-Move: W, A, S, D\
+Move: W, A, S, D
 
 <h3>Commands:</h3>
-Type `-z` at the end for the zombie mode.\
+Type `-z` at the end for the zombie mode.
 
-Type `-n` at the end to change the daytime to night in normal mode.\
+Type `-n` at the end to change the daytime to night in normal mode.
 
 Requires Python3.0 or later
